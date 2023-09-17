@@ -6,7 +6,7 @@ Currently I'm an second  student in the University of Science my major is Data S
 
 <p
 ---
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="TypeScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
