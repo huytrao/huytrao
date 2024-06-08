@@ -4,7 +4,7 @@
 </a>
 # 爪 Huytrao
 
-**' Following path Data engineer and Devops '**
+**' Following path Data and Bussiness '**
 
 My portfolio : <a href="https://huytrao.github.io/huytraoweb" style="color🔷">huytrao.github.io/huytraoweb </a>
 
