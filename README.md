@@ -7,8 +7,8 @@
 **' Following path Big Data, Bussiness'**
 # 爪 Huytrao
 
-# My portfolio: [huytrao.github.io/huytraoweb](https://huytrao.github.io/huytraoweb)
-# My YoutubeChannel: [youtube.com/@huytrao]( https://www.youtube.com/@huytrao )
+# My portfolio: [LINK](https://huytrao.github.io/portfolioweb/)
+# My YoutubeChannel: [LINK]( https://www.youtube.com/@huytrao )
 
 <p
 
