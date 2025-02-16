@@ -8,7 +8,7 @@
 # 爪 Huytrao
 
 # My portfolio: [LINK](https://huytrao.github.io/portfolioweb/)
-# My YoutubeChannel: [LINK]( https://www.youtube.com/@huytrao )
+
 
 <p
 
